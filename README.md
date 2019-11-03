@@ -26,6 +26,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+### My youtube channel 
+support and subscribe to [VERTZ GAMING](https://www.youtube.com/channel/UC_XzNqC3AojA7nA9g6InK7g)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
